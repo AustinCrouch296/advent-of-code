@@ -1,2 +1,2 @@
 # Advent of Code 🎄
-My solutions to [Advent of Code 2019](https://adventofcode.com/) Christmas challenges.<br />
+My solutions to the [Advent of Code](https://adventofcode.com/) 2019 and 2021 challenges.
